@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Mamdous—a passionate developer constantly exploring new technologies and honing my skills.  
+Hello, world! I'm Mamdous — someone who loves computers, retro tech, and exploring how it all works.
 🔭 Currently diving deep into **Data Structures and Algorithms**.  
 👯 Excited to collaborate on **cool** and innovative projects.  
 🤝 Looking for guidance and learning opportunities to expand my knowledge.  
