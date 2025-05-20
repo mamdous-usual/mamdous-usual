@@ -29,12 +29,12 @@ Hello, world! I'm Mamdous — someone who loves computers, retro tech, and explo
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamdous-usual&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mamdous-usual&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="60%">
 </p>
 <p align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=Mamdous-usual&theme=dark&hide_border=false" alt="GitHub Streak" width="70%">
+   <img src="https://nirzak-streak-stats.vercel.app/?user=Mamdous-usual&theme=dark&hide_border=false" alt="GitHub Streak" width="60%">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdous-usual&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdous-usual&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%">
 </p>
 
