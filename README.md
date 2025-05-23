@@ -4,7 +4,6 @@ Hello, world! I'm Mamdous — someone who loves computers, retro tech, and explo
 👯 Excited to collaborate on **cool** and innovative projects.  
 🤝 Looking for guidance and learning opportunities to expand my knowledge.  
 
----
 
 # 💻 Tech Stack:
 **Programming Languages:**  
@@ -24,17 +23,20 @@ Hello, world! I'm Mamdous — someone who loves computers, retro tech, and explo
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
----
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamdous-usual&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="65%">
-</p>
-<p align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=Mamdous-usual&theme=dark&hide_border=false" alt="GitHub Streak" width="55%">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdous-usual&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mamdous-usual&theme=nightowl&show_icons=true&count_private=true" width="95%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamdous-usual&theme=nightowl&hide_border=false" width="95%" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mamdous-usual&theme=nightowl&hide_border=false&langs_count=10" width="90%"/>
+</td>
+</tr>
+</table>
 </p>
 
