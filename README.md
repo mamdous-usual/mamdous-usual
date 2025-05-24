@@ -1,8 +1,8 @@
 # 🧑‍💻 About Me:
 *Hello, world! I'm Mamdous — someone who loves computers, retro tech, and exploring how it all works.*  
 
-🔭 Currently diving deep into **Data Structures and Algorithms**.  
-👯 Excited to collaborate on **cool** and innovative projects.  
+🧑‍🏫 Currently diving deep into **Data Structures and Algorithms**.  
+🧑‍🏭 Excited to collaborate on **cool** and innovative projects.  
 🤝 Looking for guidance and learning opportunities to expand my knowledge.  
 
 
@@ -25,7 +25,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="center">
 <table align="center">
