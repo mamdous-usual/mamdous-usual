@@ -1,4 +1,4 @@
-# About Me:
+# 🧑‍💻 About Me:
 *Hello, world! I'm Mamdous — someone who loves computers, retro tech, and exploring how it all works.*  
 
 🔭 Currently diving deep into **Data Structures and Algorithms**.  
