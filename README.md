@@ -5,4 +5,4 @@ About Me:
 - Currently focusing on **Data Structures & Algorithms** 
 - Actively seeking collaboration, mentorship, and opportunities to grow!
   
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamdous-usual&theme=nightowl&show_icons=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamdous-usual&theme=tokyonight&show_icons=true&count_private=true)
