@@ -1,22 +1,17 @@
 ## Hi, I'm [Mamdous](https://mamdous.me)
 
-### About Me
-- Undergraduate at **Karimganj College** studying Computer Science
-- Pursuing **Bachelor of Computer Applications (BCA)**
-- Currently focusing on **Data Structures & Algorithms** 
-- Actively seeking collaboration, mentorship, and opportunities to grow
+Computer Science undergraduate at Karimganj College. I solve problems on LeetCode and Codeforces, and build web applications with React and Spring Boot.
 
 ### Tech Stack
 
-**Languages**
-- C, C++, Java, Python, JavaScript, TypeScript
+**Languages:** C, C++, Java, Python, JavaScript, TypeScript
 
-**Web Development**
-- Frontend: React
-- Backend: Spring Boot
+**Web:** React, TypeScript, Spring Boot
 
-**Databases**
-- MySQL, PostgreSQL, MongoDB
+**Databases:** PostgreSQL, MySQL, MongoDB
 
-**Development Environment**
-- Linux
+**Environment:** Linux
+
+### Contact
+
+Open to collaborating on backend projects or algorithmic challenges. Reach me at my [website](https://mamdous.me) or open an issue on my repositories.
