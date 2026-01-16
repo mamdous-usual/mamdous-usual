@@ -1,6 +1,7 @@
 ## Hi, I'm [Mamdous](https://mamdous.me)
 
-Computer Science undergraduate at Karimganj College. I solve problems on LeetCode and GFG, and build web applications with React and Spring Boot.
+Computer Science undergraduate at Karimganj College.  
+I solve problems on LeetCode and GFG, and build web applications with React and Spring Boot.
 
 ### Tech Stack
 
