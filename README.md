@@ -9,7 +9,7 @@
 ### Tech Stack
 
 **Languages**
-- C/C++, Java, Python, JavaScript, TypeScript
+- C, C++, Java, Python, JavaScript, TypeScript
 
 **Web Development**
 - Frontend: React
@@ -18,5 +18,5 @@
 **Databases**
 - MySQL, PostgreSQL, MongoDB
 
-**Other**
+**Development Environment**
 - Linux
