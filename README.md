@@ -7,7 +7,7 @@ I solve problems on LeetCode and GFG, and build web applications with React and 
 
 **Languages:** C, C++, Java, Python, JavaScript, TypeScript
 
-**Web:** React, TypeScript, Spring Boot
+**Web:** React, Spring Boot
 
 **Databases:** PostgreSQL, MySQL, MongoDB
 
