@@ -11,5 +11,5 @@ CS undergrad at Karimganj College. I work with React, Spring Boot, and solve alg
 
 ### Connect
 
-Open to collaborating on backend projects or algorithmic challenges.  
+Open to collaborating on projects or algorithmic challenges.  
 → [Website](https://mamdous.me) • [Email](mamdouslaskar@protonmail.com)
