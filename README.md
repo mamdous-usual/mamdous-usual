@@ -4,7 +4,7 @@ Computer Science undergraduate at Karimganj College, focused on building web app
 
 ### Tech Stack
 **Languages:** C, C++, Java, Python, JavaScript, TypeScript  
-**Web:** React, Spring Boot 
+**Web:** React, Spring Boot   
 **Databases:** PostgreSQL, MySQL, MongoDB  
 **Environment:** Linux  
 
