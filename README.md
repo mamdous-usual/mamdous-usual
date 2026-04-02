@@ -3,8 +3,6 @@
 Computer Science undergraduate at Karimganj College.  
 Focused on building web applications and improving problem-solving skills through algorithms and data structures.
 
----
-
 ### Tech Stack
 
 **Languages**  
@@ -19,14 +17,10 @@ PostgreSQL, MySQL, MongoDB
 **Environment**  
 Linux  
 
----
-
 ### About
 
 I enjoy working on web projects and strengthening my understanding of data structures and algorithms.  
-  Currently learning Algorithms and Backend Development.
-
----
+Currently learning backend development and system design fundamentals.
 
 ### Connect
 
