@@ -24,7 +24,7 @@ Linux
 ### About
 
 I enjoy working on web projects and strengthening my understanding of data structures and algorithms.  
-Currently learning backend development and system design fundamentals.
+  Currently learning Algorithms and Backend Development.
 
 ---
 
