@@ -1,17 +1,31 @@
-## Hi, I'm [Mamdous](https://mamdous.me)
+# Hi, I'm Mamdous
 
-Computer Science undergraduate at Karimganj College, focused on building web applications and strengthening problem-solving through data structures and algorithms.
+CS undergraduate at Karimganj College, building full-stack web applications and solving DSA problems daily.
 
-### Tech Stack
-**Languages:** C, C++, Java, Python, JavaScript, TypeScript  
-**Web:** React, Spring Boot   
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Environment:** Linux  
+---
 
-### About
-I enjoy building projects to understand how systems work in practice. I consistently practice DSA to improve problem-solving.
+## Tech Stack
 
-### Connect
-Open to collaboration on projects and algorithmic problem-solving.  
-Website: https://mamdous.me  
-Email: mamdouslaskar@protonmail.com  
+| Domain | Technologies |
+|---|---|
+| Languages | `C` `C++` `Java` `Python` `JavaScript` `TypeScript` |
+| Frontend | `React.js` |
+| Backend | `Node.js` `Express.js` `Spring Boot` |
+| Databases | `MongoDB` `PostgreSQL` `MySQL` |
+| Environment | `Linux` |
+
+---
+
+## Problem Solving
+
+Consistently practicing DSA to build strong problem-solving fundamentals.
+
+- [LeetCode](https://leetcode.com/u/mamdous/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/mamdous_usual?tab=activity)
+
+---
+
+## Let's Connect
+
+- Website: [mamdous.me](https://mamdous.me)
+- Email: [mamdouslaskar@protonmail.com](mailto:mamdouslaskar@protonmail.com)
