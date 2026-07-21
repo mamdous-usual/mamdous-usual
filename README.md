@@ -1,29 +1,32 @@
-# Hi, I'm [Mamdous](https://mamdous.me)
+<pre>
+mamdous@localhost:~$ fastfetch
 
-CS undergraduate at Karimganj College, building full-stack web applications and solving DSA problems daily.
+mamdous@localhost
+------------------
+Role: CS Undergraduate
+College: Karimganj College
+Focus: Full-Stack Web Development
+Shell: /bin/dsa
 
+Languages: C, C++, Java, Python, JavaScript, TypeScript
+Frontend: React.js
+Backend: Node.js, Express.js, Spring Boot
+Databases: MongoDB, PostgreSQL, MySQL
+Environment: Linux
 
+Portfolio: <a href="https://mamdous.me">mamdous.me</a>
 
-## Tech Stack
-
-| Domain | Technologies |
-|---|---|
-| Languages | `C` `C++` `Java` `Python` `JavaScript` `TypeScript` |
-| Frontend | `React.js` |
-| Backend | `Node.js` `Express.js` `Spring Boot` |
-| Databases | `MongoDB` `PostgreSQL` `MySQL` |
-| Environment | `Linux` |
-
-
-## Problem Solving
+mamdous@localhost:~$ cat problem_solving.txt
 
 Consistently practicing DSA to build strong problem-solving fundamentals.
 
-- [LeetCode](https://leetcode.com/u/mamdous/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/mamdous_usual?tab=activity)
+LeetCode:      <a href="https://leetcode.com/u/mamdous/">leetcode.com/u/mamdous</a>
+GeeksforGeeks: <a href="https://www.geeksforgeeks.org/profile/mamdous_usual?tab=activity">geeksforgeeks.org/profile/mamdous_usual</a>
 
+mamdous@localhost:~$ cat contact.txt
 
-## Let's Connect
+Email:   <a href="mailto:mamdouslaskar@protonmail.com">mamdouslaskar@protonmail.com</a>
+Website: <a href="https://mamdous.me">mamdous.me</a>
 
-- Website: [mamdous.me](https://mamdous.me)
-- Email: [mamdouslaskar@protonmail.com](mailto:mamdouslaskar@protonmail.com)
+mamdous@localhost:~$ █
+</pre>
