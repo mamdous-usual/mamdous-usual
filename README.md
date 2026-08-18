@@ -14,7 +14,7 @@ Backend: Node.js, Express.js, Spring Boot
 Databases: MongoDB, PostgreSQL, MySQL
 Environment: Linux
 
-Portfolio: <a href="https://mamdous.me">mamdous.me</a>
+Portfolio: <a href="https://mamdous.vercel.app">mamdous.me</a>
 
 mamdous@localhost:~$ cat problem_solving.txt
 
@@ -26,7 +26,7 @@ GeeksforGeeks: <a href="https://www.geeksforgeeks.org/profile/mamdous_usual?tab=
 mamdous@localhost:~$ cat contact.txt
 
 Email:   <a href="mailto:mamdouslaskar@protonmail.com">mamdouslaskar@protonmail.com</a>
-Website: <a href="https://mamdous.me">mamdous.me</a>
+Website: <a href="https://mamdous.vercel.app">mamdous.me</a>
 
 mamdous@localhost:~$ █
 </pre>
