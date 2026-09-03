@@ -10,7 +10,7 @@ Shell: /bin/dsa
 
 Languages: C, C++, Java, Python, JavaScript, TypeScript
 Frontend: React.js
-Backend: Node.js, Express.js, Spring Boot
+Backend: Spring Boot
 Databases: MongoDB, PostgreSQL, MySQL
 Environment: Linux
 
