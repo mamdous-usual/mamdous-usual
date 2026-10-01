@@ -2,7 +2,7 @@
 mamdous@localhost:~$ whoami
 Mamdous Laskar
 CS undergraduate (BCA '28), Assam University
-Strengthening core CS fundamentals, data structures and algorithms through repetition.
+Strengthening core CS fundamentals, data structures and algorithms. Building things along the way.
 
 mamdous@localhost:~$ cat stack.txt
 Languages   : Java, C++, JavaScript, TypeScript, Python, C
