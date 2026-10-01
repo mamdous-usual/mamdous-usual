@@ -1,32 +1,24 @@
 <pre>
-mamdous@localhost:~$ fastfetch
+mamdous@localhost:~$ whoami
 
-mamdous@localhost
-------------------
-Role: CS Undergraduate
-College: Karimganj College
-Focus: Full-Stack Web Development
-Shell: /bin/dsa
+Mamdous Laskar
+CS undergraduate (BCA '28), Karimganj College
+Focused on core CS fundamentals and mastering data structures & algorithms through consistency.
 
-Languages: C, C++, Java, Python, JavaScript, TypeScript
-Frontend: React.js
-Backend: Spring Boot
-Databases: MongoDB, PostgreSQL, MySQL
-Environment: Linux
+mamdous@localhost:~$ cat stack.txt
 
-Portfolio: <a href="https://mamdous.vercel.app">mamdous.me</a>
+Languages:  Java, C++, JavaScript, TypeScript, Python, C
+Frontend:   React
+Backend:    Spring Boot
+Databases:  PostgreSQL, MySQL, MongoDB
+Tools:      Linux, Git
 
-mamdous@localhost:~$ cat problem_solving.txt
+mamdous@localhost:~$ cat links.txt
 
-Consistently practicing DSA to build strong problem-solving fundamentals.
+Portfolio:  https://mamdous.vercel.app
+LeetCode:   https://leetcode.com/u/mamdous/
+GFG:        https://www.geeksforgeeks.org/profile/mamdous_usual
+Email:      mamdouslaskar@protonmail.com
 
-LeetCode:      <a href="https://leetcode.com/u/mamdous/">leetcode.com/u/mamdous</a>
-GeeksforGeeks: <a href="https://www.geeksforgeeks.org/profile/mamdous_usual?tab=activity">geeksforgeeks.org/profile/mamdous_usual</a>
-
-mamdous@localhost:~$ cat contact.txt
-
-Email:   <a href="mailto:mamdouslaskar@protonmail.com">mamdouslaskar@protonmail.com</a>
-Website: <a href="https://mamdous.vercel.app">mamdous.me</a>
-
-mamdous@localhost:~$ █
+mamdous@localhost:~$
 </pre>
