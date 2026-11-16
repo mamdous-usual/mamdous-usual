@@ -4,11 +4,11 @@ Mamdous Laskar
 CS undergraduate (BCA '28), Assam University
 Strengthening core CS fundamentals, data structures and algorithms. Building things along the way.
 
-mamdous@localhost:~$ cat stack.txt
-Languages   : Java, C++, JavaScript, TypeScript, Python, C
-Web         : React, Spring Boot
+Languages   : Java, JavaScript, TypeScript, Python
+Backend     : Spring Boot, Spring Security, JPA/Hibernate, REST APIs, JWT, Maven
+Frontend    : React
 Databases   : PostgreSQL, MySQL, MongoDB
-Tools       : Linux, Git
+Tools       : Linux, Git/GitHub, Postman, IntelliJ IDEA
 
 mamdous@localhost:~$ cat links.txt
 Portfolio   : <a href="https://mamdous.vercel.app">mamdous.vercel.app</a>
