@@ -11,7 +11,7 @@ Databases   : PostgreSQL, MySQL, MongoDB
 Tools       : Linux, Git/GitHub, Postman, IntelliJ IDEA
 
 mamdous@localhost:~$ cat links.txt
-Portfolio   : <a href="https://mamdous.vercel.app">mamdous.vercel.app</a>
+Portfolio   : <a href="https://mamdous.dev">mamdous.vercel.app</a>
 LeetCode    : <a href="https://leetcode.com/u/mamdous/">leetcode.com/u/mamdous</a>
 GFG         : <a href="https://www.geeksforgeeks.org/profile/mamdous_usual">geeksforgeeks.org/profile/mamdous_usual</a>
 Email       : <a href="mailto:mamdouslaskar@protonmail.com">mamdouslaskar@protonmail.com</a>
